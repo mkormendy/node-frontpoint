@@ -3,6 +3,10 @@
   "version": "1.2.0",
   "description": "FrontPoint Security API client.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhurliman/node-frontpoint.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
